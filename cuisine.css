@@ -1,0 +1,23 @@
+h2{
+    color: red;
+}
+h1{
+    color: green;
+}
+img{
+  
+    margin: 20px;
+    
+    
+}
+body{
+    background-color: aquamarine;
+    margin: 10px;
+}
+.header-nav a{
+    
+  
+        padding: 0 10px;
+        margin: 50px;
+        
+    }
