@@ -1,20 +1,61 @@
-h2{
-    color: red;
-}
+
 h1{
     color: green;
 }
+
 img{
  
     margin: 20px;
     
     
 }
-body{
-    background-color: aquamarine;
-    margin: 10px;
-}
 
-    #topbar{
-       width: 100%;
+  header  h2{
+        font-weight: bolder;
+        font-size: 1.8em;
     }
+    header{
+        text-align: center;
+    }
+    h3{
+        color: red;
+    }
+
+    
+    #banniere{
+        text-align: center;
+        width: 100%;
+        height: auto;
+    }
+    #thank{
+        background-color: rgb(237, 237, 116);
+        color: green;
+        font-weight: bold;
+    
+   }
+ .image{
+    color:grey ;
+    margin: 5px;
+ }
+ 
+ .featured{
+    text-align: left;
+    border-left: 1px solid #FFA500;
+    padding-left: 20px;
+    font-size: 0.8em;
+ }
+ 
+ main{
+    margin: auto;
+    text-align: center;
+    width: 50%;
+    font-family: 'Times New Roman', Times, serif;
+ }
+ 
+ .ingredienti{
+    text-align: left;
+    margin-top: 70px;
+ }
+ .image{
+    border-radius: 7px;
+ }
